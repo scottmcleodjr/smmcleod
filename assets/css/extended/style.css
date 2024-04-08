@@ -1,0 +1,13 @@
+.profile img {
+    border-radius: 1%;
+    width: 600px;
+    height: auto;
+}
+
+.post-description {
+    display: none;
+}
+
+.post-content p {
+    text-align: justify;
+}

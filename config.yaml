@@ -1,0 +1,40 @@
+baseURL: https://smmcleod.com/
+languageCode: en-us
+title: S. M. McLeod
+
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+
+params:
+  profileMode:
+    enabled: true
+    title: "Hello, I'm Scott."
+    imageUrl: "/images/profile_image.JPG"
+    imageTitle: "S. M. McLeod"
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/scottmcleodjr"
+    - name: "Mastodon"
+      url: "https://fosstodon.org/@smm"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/scottmmcleodjr"
+    - name: "Email"
+      url: "mailto:s.mcleodjr@gmail.com"
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: PGP
+      name: PGP
+      url: /pgp/
+      weight: 30
+      
