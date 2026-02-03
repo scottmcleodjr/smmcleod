@@ -4,6 +4,8 @@ title: S. M. McLeod
 
 theme: ["PaperMod"]
 
+uglyURLs: true # For S3 deployments
+
 enableRobotsTXT: true
 
 params:
@@ -27,14 +29,14 @@ menu:
   main:
     - identifier: About
       name: About
-      url: /about/
+      pageRef: /about
       weight: 10
     - identifier: Projects
       name: Projects
-      url: /projects/
+      pageRef: /projects
       weight: 20
     - identifier: PGP
       name: PGP
-      url: /pgp/
+      pageRef: /pgp
       weight: 30
       
