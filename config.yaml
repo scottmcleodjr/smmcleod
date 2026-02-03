@@ -10,7 +10,7 @@ params:
   profileMode:
     enabled: true
     title: "Hello, I'm Scott."
-    imageUrl: "/images/profile_image.JPG"
+    imageUrl: "/images/profile_image_26.jpg"
     imageTitle: "S. M. McLeod"
 
   socialIcons:
