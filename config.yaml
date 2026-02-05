@@ -27,14 +27,10 @@ params:
 
 menu:
   main:
-    - identifier: About
-      name: About
-      pageRef: /about
+    - identifier: Home
+      name: Home
+      pageRef: /
       weight: 10
-    - identifier: Projects
-      name: Projects
-      pageRef: /projects
-      weight: 20
     - identifier: PGP
       name: PGP
       pageRef: /pgp
