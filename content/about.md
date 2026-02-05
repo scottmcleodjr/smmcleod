@@ -1,5 +1,4 @@
 ---
-title: "About Me"
 description: "A short summary of my work, personal projects, and hobbies."
 ---
 
