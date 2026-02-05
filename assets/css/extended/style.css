@@ -11,6 +11,7 @@
 }
 
 .profile img {
+    border: 2px solid var(--primary);
     border-radius: 1%;
     width: 600px;
     height: auto;
