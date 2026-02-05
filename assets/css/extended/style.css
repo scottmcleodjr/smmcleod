@@ -10,6 +10,10 @@
     --primary:   #ecebe4;
 }
 
+body {
+    font-family: 'Inter', sans-serif;
+}
+
 .profile img {
     border: 2px solid var(--primary);
     border-radius: 1%;
