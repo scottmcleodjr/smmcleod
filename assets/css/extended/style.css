@@ -1,4 +1,21 @@
+:root {
+    --theme:     #ecebe4;
+    --entry:     #ecebe4;
+    --primary:   #1b231c;
+}
+
+:root[data-theme="dark"] {
+    --theme:     #1b231c;
+    --entry:     #1b231c;
+    --primary:   #ecebe4;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
 .profile img {
+    border: 2px solid var(--primary);
     border-radius: 1%;
     width: 600px;
     height: auto;

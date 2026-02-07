@@ -1,5 +1,4 @@
 ---
-title: "Projects"
 description: "My personal software projects."
 ---
 

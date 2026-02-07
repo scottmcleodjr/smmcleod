@@ -1,5 +1,4 @@
 ---
-title: "PGP Key"
 description: "My PGP public key block."
 ---
 

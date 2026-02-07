@@ -1,9 +1,8 @@
 ---
-title: "About Me"
 description: "A short summary of my work, personal projects, and hobbies."
 ---
 
-Hello, **I'm Scott**.  I'm a Pittsburgh-based software engineer and team lead at Solventum.
+Hello, **I'm Scott**.  I'm a Pittsburgh-based software engineer at Courtyard.
 
 **At work**, I solve at the nexus of DevOps, site reliability, and cloud FinOps.  My days can move between developing new features for backend services, maintaining enterprise software deployments in the cloud, and working with engineering teams to design cost-efficient architectures.  I'm especially passionate about bringing elegance and maintainability to the projects I work on.
 
